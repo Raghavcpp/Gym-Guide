@@ -25,13 +25,13 @@ Here are the YouTube videos by certified trainers for the specific exercises in 
    - [Incline Bench Press Tutorial](https://www.youtube.com/watch?v=SrqOu55lrYU)
 
 3. **Butterfly (Pec Deck Fly)**
-   - [Pec Deck Fly Guide](https://www.youtube.com/watch?v=Kp5VdyFU9bU)
+   - [Pec Deck Fly Guide](https://www.youtube.com/watch?v=Kp5VdyFU9bU) not working
 
 4. **Dumbbell Bench Press**
    - [Dumbbell Bench Press Instructions](https://www.youtube.com/watch?v=VmB1G1K7v94)
 
 5. **Dumbbell Pullover**
-   - [Dumbbell Pullover Exercise](https://www.youtube.com/watch?v=JJyPUCu-6fU)
+   - [Dumbbell Pullover Exercise](https://www.youtube.com/watch?v=JJyPUCu-6fU) not working
 
 ### Back (Wednesday)
 1. **Lat Pull-Down (Front and Back)**
@@ -44,30 +44,31 @@ Here are the YouTube videos by certified trainers for the specific exercises in 
    - [Single-Arm Dumbbell Row](https://www.youtube.com/watch?v=pYcpY20QaE8)
 
 4. **Single-Arm Side Pulldown with Cable**
-   - [Single-Arm Pulldown](https://www.youtube.com/watch?v=mz1QqfMvE_c)
+   - [Single-Arm Pulldown](https://www.youtube.com/watch?v=mz1QqfMvE_c) not working
 
-5. **Back Straight-Arm Bar Pull-Down**
-   - [Straight-Arm Pulldown](https://www.youtube.com/watch?v=fY5Cz3cU1N8)
+5. **Back Straight-Arm Bar Pull-Down** name should be Cable Bent-over Pullover
+   - [Straight-Arm Pulldown](https://www.youtube.com/watch?v=fY5Cz3cU1N8) not working
 
-6. **T-Bar Row**
-   - [T-Bar Row Exercise](https://www.youtube.com/watch?v=2XFNpkKhG3w)
+6. **T-Bar Row** name should be Lever Incline Row (plate loaded)
+   - [T-Bar Row Exercise](https://www.youtube.com/watch?v=2XFNpkKhG3w) not working
 
 ### Shoulders (Thursday)
-1. **Seated Bar Shoulder Press (Front and Back)**
-   - [Seated Shoulder Press](https://www.youtube.com/watch?v=B-aVuyhvLHU)
+1. **Barbell Shoulder Press (Front and Back)**
+   - [Seated Shoulder Press](https://www.youtube.com/watch?v=B-aVuyhvLHU) not the wanted video
 
-2. **Seated Dumbbell Shoulder Press**
+2. **Dumbbell Shoulder Press**
    - [Seated Dumbbell Press](https://www.youtube.com/watch?v=qEwKCR5JCog)
+   - [Standing Dumbbell Press](https://www.youtube.com/watch?v=B-aVuyhvLHU)
 
 3. **Dumbbell Front Raise and Lateral Raise**
    - [Front Raise](https://www.youtube.com/watch?v=-t7fuZ0KhDA)
    - [Lateral Raise](https://www.youtube.com/watch?v=3VcKaXpzqRo)
 
 4. **Cable Upright Row**
-   - [Upright Row Guide](https://www.youtube.com/watch?v=RqrQIMMQvvc)
+   - [Upright Row Guide](https://www.youtube.com/watch?v=RqrQIMMQvvc) not working
 
 5. **Dumbbell Shrug**
-   - [Dumbbell Shrug Exercise](https://www.youtube.com/watch?v=tJrdJBWBu08)
+   - [Dumbbell Shrug Exercise](https://www.youtube.com/watch?v=tJrdJBWBu08) not the wanted video
 
 ### Biceps (Friday)
 1. **Bicep Curls with Bar (No Weights and With Weights)**
@@ -77,13 +78,13 @@ Here are the YouTube videos by certified trainers for the specific exercises in 
    - [Dumbbell Bicep Curl](https://www.youtube.com/watch?v=sAq_ocpRh_I)
 
 3. **Preacher Curl**
-   - [Preacher Curl Guide](https://www.youtube.com/watch?v=1Tq3QdYUuHs)
+   - [Preacher Curl Guide](https://www.youtube.com/watch?v=1Tq3QdYUuHs) not the wanted video
 
 4. **Hammer Curls**
    - [Hammer Curl Tutorial](https://www.youtube.com/watch?v=zC3nLlEvin4)
 
 5. **Concentration Curl**
-   - [Concentration Curl Exercise](https://www.youtube.com/watch?v=6aFb6lERKSI)
+   - [Concentration Curl Exercise](https://www.youtube.com/watch?v=6aFb6lERKSI) not working
 
 ### Triceps (Saturday)
 1. **Cable Bar Push-Down**
@@ -95,10 +96,10 @@ Here are the YouTube videos by certified trainers for the specific exercises in 
    - [Overhead Dumbbell Triceps Extension](https://www.youtube.com/watch?v=m4ujXuSuQ0I)
 
 3. **Double-Arm Cable Triceps Extension**
-   - [Cable Tricep Extension](https://www.youtube.com/watch?v=jB3xglJ02lI)
+   - [Cable Tricep Extension](https://www.youtube.com/watch?v=jB3xglJ02lI) not working
 
 4. **Dumbbell Kick-Back**
-   - [Tricep Kickback](https://www.youtube.com/watch?v=zoBaJYrqzHk)
+   - [Tricep Kickback](https://www.youtube.com/watch?v=zoBaJYrqzHk) not working
 
 5. **Cable Rope Push-Down**
    - [Tricep Rope Pushdown](https://www.youtube.com/watch?v=vB5OHsJ3EME)
@@ -114,7 +115,7 @@ Here are the YouTube videos by certified trainers for the specific exercises in 
   - [Push-Up Tutorial](https://www.youtube.com/watch?v=_l3ySVKYVJ8)
 
 - **Wrist Curl**
-  - [Wrist Curls](https://www.youtube.com/watch?v=4SLft9GiD10)
+  - [Wrist Curls](https://www.youtube.com/watch?v=4SLft9GiD10) not working
 
 - **Back Extension**
   - [Back Extension Exercise](https://www.youtube.com/watch?v=ph3pddpKzzw)
