@@ -124,3 +124,5 @@ Here are the YouTube videos by certified trainers for the specific exercises in 
   - [Back Extension Exercise](https://www.youtube.com/watch?v=ph3pddpKzzw)
 
 These videos will help you ensure proper form and technique for each exercise.
+
+- **[3D Models for observing and understanding exercises](https://sketchfab.com/mikeshortall1991)**
